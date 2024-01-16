@@ -1,0 +1,1 @@
+cargo build & copy /y target\debug\makecode_arcade_emu.dll c:\RetroArch-Win64\cores\

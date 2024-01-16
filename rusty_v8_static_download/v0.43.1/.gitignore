@@ -1,0 +1,3 @@
+#download from https://github.com/denoland/rusty_v8/releases
+*.lib
+*.a
